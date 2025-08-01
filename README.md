@@ -7,7 +7,7 @@ This project is a UI clone that showcases my front-end development skills in des
 
 ## 🔍 Preview
 
-[🔗 Live Demo](https://your-live-link.com)
+[🔗 Live Demo](https://your-live-link.com](https://adinathmk.github.io/Ixigo-Clone-Webpage/))
 
 ---
 
